@@ -453,9 +453,10 @@ MonoBehaviour:
   _receiverEmailAddress: 
   _subject: UI Capture
   _body: Here is the UI capture.
-  NoteForAppPassword: "Enable 2-Step Verification: https://myaccount.google.com/security
-    \n Genarate app password: https://myaccount.google.com/apppasswords"
-  _senderAppPassword: qzbprpzhhzwjkxni
+  NoteForAppPassword: "1. Enable 2-Step Verification: https://myaccount.google.com/security
+    \n2. Genarate app password: https://myaccount.google.com/apppasswords \n3. Remove
+    spaces"
+  _senderAppPassword: 
   _smtpClient: smtp.gmail.com
   _senderEmailAddress: 
 --- !u!4 &687822967
