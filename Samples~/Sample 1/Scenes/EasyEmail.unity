@@ -450,14 +450,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6189477062307db4183689b92ba4011c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _receiverEmailAddress: ireshsampath@gmail.com
+  _receiverEmailAddress: 
   _subject: UI Capture
   _body: Here is the UI capture.
   NoteForAppPassword: "Enable 2-Step Verification: https://myaccount.google.com/security
     \n Genarate app password: https://myaccount.google.com/apppasswords"
   _senderAppPassword: qzbprpzhhzwjkxni
   _smtpClient: smtp.gmail.com
-  _senderEmailAddress: gamecn.456@gmail.com
+  _senderEmailAddress: 
 --- !u!4 &687822967
 Transform:
   m_ObjectHideFlags: 0
