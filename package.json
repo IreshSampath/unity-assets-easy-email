@@ -1,0 +1,34 @@
+﻿{
+  "name": "com.ireshsampath.unity-assets.easy-email",
+  "version": "1.0.0",
+  "displayName": "EasyEmail",
+  "description": "EasyEmail is a Unity asset designed to simplify email sending functionality within your games. It offers easy integration for sending emails for various purposes.",
+  "unity": "6000.1",
+  "unityRelease": "1f1",
+  "documentationUrl": "https://github.com/IreshSampath/unity-assets-easy-user-registration/blob/main/README.md",
+  "changelogUrl": "https://example.com/easy-user-registration-changelog.html",
+  "licensesUrl": "https://example.com/easy-user-registration-licensing.html",
+  "dependencies": {
+    "com.unity.textmeshpro": "5.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "EasyEmail Sample",
+      "description": "An example scene demonstrating how to integrate and use EasyEmail for sending emails.",
+      "path": "Samples~/Sample 1"
+    }
+  ],
+  "keywords": [
+    "email",
+    "unity email",
+    "send email",
+    "easy email",
+    "notifications",
+    "communication"
+  ],
+  "author": {
+    "name": "Iresh Sampath",
+    "email": "ireshsampath@gmail.com",
+    "url": "https://ireshsampath.portfoliobox.io/"
+  }
+}
