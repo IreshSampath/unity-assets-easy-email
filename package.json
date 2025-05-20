@@ -1,6 +1,6 @@
 ﻿{
   "name": "com.ireshsampath.unity-assets.easy-email",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "displayName": "EasyEmail",
   "description": "EasyEmail is a Unity asset designed to simplify email sending functionality within your games. It offers easy integration for sending emails for various purposes.",
   "unity": "6000.1",
